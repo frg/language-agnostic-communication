@@ -13,6 +13,8 @@ When `npm run start` is executed, it will spawn a the process attached to the Po
 
 By attaching an *stdout* hook to the Pong process, the Ping project will `console.log` these values.
 
+![Sequence Diagram](std-seq.jpg)
+
 ## Requirements
 
 - [.NET Core SDK (+3.0)](https://dotnet.microsoft.com/download)
